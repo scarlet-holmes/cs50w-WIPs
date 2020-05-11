@@ -24,4 +24,4 @@ files:
 
 - ready.html - an html file for the curious
 
-schadenfreude.html - an html file for those who have solved the 7th puzzle
+- schadenfreude.html - an html file for those who have solved the 7th puzzle
